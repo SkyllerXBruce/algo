@@ -3,12 +3,7 @@
 
 esto es contenido
 
-1. opcion1
-
-skjahdkjsah
-
-cambios de blanca
+1. opcion1 este es un test para probar
 
 
-opcion2
-skdmnaksndkj
+* opcion2 git funciona porfavor
